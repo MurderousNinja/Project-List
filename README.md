@@ -14,7 +14,7 @@
    * [ ] Model Creation
    * [ ] Accuracy Check
 ## *Inclined Crack with DLL*
-   * [ ] DL Model Selection
+   * [x] DL Model Selection
    * [x] DL Model Application
    * [ ] Paper
 ## *Intermedullary Nail in Tibia Patent*
