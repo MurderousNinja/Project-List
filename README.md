@@ -13,7 +13,7 @@
    * [ ] Dataset Creation
    * [ ] Model Creation
    * [ ] Accuracy Check
-##*Inclined Crack with DLL*
+## *Inclined Crack with DLL*
    * [ ] DL Model Selection
    * [x] DL Model Application
    * [ ] Paper
